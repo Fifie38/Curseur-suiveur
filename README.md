@@ -1,3 +1,3 @@
 # Curseur-suiveur
  
-![rendu](https://github.com/Fifie38/INFO102/blob/main/demo.PNG)
+![rendu](https://github.com/Fifie38/Curseur-suiveur/blob/main/demo.PNG)
